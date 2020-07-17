@@ -1,2 +1,2 @@
 # snake-game
-Python GUI
+Python GUI using turtle and random library
